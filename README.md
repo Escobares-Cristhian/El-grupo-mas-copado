@@ -1,4 +1,4 @@
-#README
+# README
 Como contribuir a un proyecto de GitHub
 
 Entrar en GitHub a un proyecto existente 
