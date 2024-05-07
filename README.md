@@ -2,7 +2,7 @@
 
 HOLA
 
-Como contribuir a un proyecto de GitHub, turotial, errores comunes, easter eggs.
+Como contribuir a un proyecto de GitHub, tutorial, errores comunes, easter eggs.
 
 Pasos para el grupo 2:
 
